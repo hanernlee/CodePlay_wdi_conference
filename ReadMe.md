@@ -32,10 +32,11 @@ To build a website for a technology conference that included the following:
 
 ## Key Features
 
-- Users can purchase tickets to the conference and will receive a confirmation email displaying their tickets with seat number.
+- Users can purchase tickets to the conference and will receive a confirmation email displaying their tickets with their respective seat numbers
 - Users can sign up to apply to be a speaker for the conference
 - Administrator can log in to see amount of tickets sold as well as approve/reject applications from users to be a speaker
-- Surprise Gimmick Game when clicking on "Sad Panda" in the Sponsors section.
+- Administrator can add future events
+- Surprise Gimmick when clicking on "Sad Panda" in the Sponsors section (users with highest panda score may win a free ticket to the conference)
 
 ## Links
 
@@ -43,8 +44,14 @@ Check out the site(best viewed in Chrome) [WDI CONF 2016](https://code-play-wdi-
 
 ## Team members
 
-| Bevin     | Leo       | Keith        |
-| Emily     | Chris     |              |
+| Team          |
+| ------------- |
+| Bevin         |
+| Emily         |
+| Leo           |
+| Keith         |
+| Chris         |
+
 
 Links to our GitHub accounts:
 - [Bevin](https://github.com/bevieboo)
