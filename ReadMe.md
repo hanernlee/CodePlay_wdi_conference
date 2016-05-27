@@ -32,7 +32,7 @@ To build a website for a technology conference that included the following:
 
 ## Key Features
 
-- Users can purchase tickets to the conference and will receive a confirmation email displaying their tickets with their respective seat numbers
+- Users can purchase tickets to the conference and will receive a confirmation email displaying their tickets with respective seat numbers
 - Users can sign up to apply to be a speaker for the conference
 - Administrator can log in to see amount of tickets sold as well as approve/reject applications from users to be a speaker
 - Administrator can add future events
