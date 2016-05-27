@@ -44,6 +44,7 @@ Check out the site(best viewed in Chrome) [WDI CONF 2016](https://code-play-wdi-
 
 ## Team members
 
+| WDI CONF Team |
 | ------------- |
 | Bevin         |
 | Emily         |
