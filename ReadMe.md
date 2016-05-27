@@ -42,6 +42,18 @@ To build a website for a technology conference that included the following:
 
 Check out the site(best viewed in Chrome) [WDI CONF 2016](https://code-play-wdi-conference.herokuapp.com/)
 
+Dummy login details for access below:
+
+**Administrator**
+
+Email: emily@email.com
+Password: pudding
+
+**User**
+
+Email: pudding@ga.co
+Password: pudding
+
 ## Team members
 
 | WDI CONF Team |
